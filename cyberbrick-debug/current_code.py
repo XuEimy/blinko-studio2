@@ -1,0 +1,1 @@
+print("CYBERBRICK_PORT_OK")
